@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>antoniaz_madonn_c-1_jpg.rf.2499cd7bc8edcd51899e8f84e7b46883.jpg</filename>
+	<path>antoniaz_madonn_c-1_jpg.rf.2499cd7bc8edcd51899e8f84e7b46883.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>69</xmin>
+			<xmax>550</xmax>
+			<ymin>70</ymin>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>badalocc_holyfami-1_jpg.rf.989323b7c397b7b8991992acc9abffd5.jpg</filename>
+	<path>badalocc_holyfami-1_jpg.rf.989323b7c397b7b8991992acc9abffd5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>270</xmin>
+			<xmax>613</xmax>
+			<ymin>240</ymin>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

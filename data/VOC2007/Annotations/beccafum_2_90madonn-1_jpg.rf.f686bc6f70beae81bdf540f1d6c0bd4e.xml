@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>beccafum_2_90madonn-1_jpg.rf.f686bc6f70beae81bdf540f1d6c0bd4e.jpg</filename>
+	<path>beccafum_2_90madonn-1_jpg.rf.f686bc6f70beae81bdf540f1d6c0bd4e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>92</xmin>
+			<xmax>586</xmax>
+			<ymin>12</ymin>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+</annotation>

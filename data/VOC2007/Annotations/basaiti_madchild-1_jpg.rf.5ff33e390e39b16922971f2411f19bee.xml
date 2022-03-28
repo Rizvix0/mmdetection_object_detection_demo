@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>basaiti_madchild-1_jpg.rf.5ff33e390e39b16922971f2411f19bee.jpg</filename>
+	<path>basaiti_madchild-1_jpg.rf.5ff33e390e39b16922971f2411f19bee.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>5</xmin>
+			<xmax>469</xmax>
+			<ymin>28</ymin>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

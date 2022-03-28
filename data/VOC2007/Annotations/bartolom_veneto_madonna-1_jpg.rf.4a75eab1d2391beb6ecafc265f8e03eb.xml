@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bartolom_veneto_madonna-1_jpg.rf.4a75eab1d2391beb6ecafc265f8e03eb.jpg</filename>
+	<path>bartolom_veneto_madonna-1_jpg.rf.4a75eab1d2391beb6ecafc265f8e03eb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>46</xmin>
+			<xmax>600</xmax>
+			<ymin>78</ymin>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>

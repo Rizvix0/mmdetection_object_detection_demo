@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>antoniaz_madchild-1_jpg.rf.66478402634b4d536b9fdf938d4214be.jpg</filename>
+	<path>antoniaz_madchild-1_jpg.rf.66478402634b4d536b9fdf938d4214be.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>5</xmin>
+			<xmax>635</xmax>
+			<ymin>56</ymin>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

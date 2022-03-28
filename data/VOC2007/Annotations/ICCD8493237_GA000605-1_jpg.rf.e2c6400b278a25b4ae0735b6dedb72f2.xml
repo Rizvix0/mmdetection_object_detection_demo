@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ICCD8493237_GA000605-1_jpg.rf.e2c6400b278a25b4ae0735b6dedb72f2.jpg</filename>
+	<path>ICCD8493237_GA000605-1_jpg.rf.e2c6400b278a25b4ae0735b6dedb72f2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>150</xmin>
+			<xmax>518</xmax>
+			<ymin>24</ymin>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>

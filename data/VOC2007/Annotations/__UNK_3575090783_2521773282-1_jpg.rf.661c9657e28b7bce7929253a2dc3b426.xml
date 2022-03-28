@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>__UNK_3575090783_2521773282-1_jpg.rf.661c9657e28b7bce7929253a2dc3b426.jpg</filename>
+	<path>__UNK_3575090783_2521773282-1_jpg.rf.661c9657e28b7bce7929253a2dc3b426.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>59</xmin>
+			<xmax>331</xmax>
+			<ymin>140</ymin>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>

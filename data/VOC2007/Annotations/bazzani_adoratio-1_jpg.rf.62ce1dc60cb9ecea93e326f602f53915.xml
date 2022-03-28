@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bazzani_adoratio-1_jpg.rf.62ce1dc60cb9ecea93e326f602f53915.jpg</filename>
+	<path>bazzani_adoratio-1_jpg.rf.62ce1dc60cb9ecea93e326f602f53915.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>82</xmin>
+			<xmax>343</xmax>
+			<ymin>214</ymin>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>

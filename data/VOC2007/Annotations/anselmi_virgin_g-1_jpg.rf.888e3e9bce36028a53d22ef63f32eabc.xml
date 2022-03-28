@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>anselmi_virgin_g-1_jpg.rf.888e3e9bce36028a53d22ef63f32eabc.jpg</filename>
+	<path>anselmi_virgin_g-1_jpg.rf.888e3e9bce36028a53d22ef63f32eabc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>193</xmin>
+			<xmax>447</xmax>
+			<ymin>1</ymin>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1c1df577-9e66-4944-a3df-f6f39d5bb495_37ac7953-28cd-4f85-8293-de7881f5d378-1_jpg.rf.70dc3897260835b9319f616aa40d7f8a.jpg</filename>
+	<path>1c1df577-9e66-4944-a3df-f6f39d5bb495_37ac7953-28cd-4f85-8293-de7881f5d378-1_jpg.rf.70dc3897260835b9319f616aa40d7f8a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>29</xmin>
+			<xmax>586</xmax>
+			<ymin>151</ymin>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

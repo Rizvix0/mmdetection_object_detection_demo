@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>baglione_virgin-1_jpg.rf.d1e18242145b0069c3b5c7d030d13d12.jpg</filename>
+	<path>baglione_virgin-1_jpg.rf.d1e18242145b0069c3b5c7d030d13d12.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>93</xmin>
+			<xmax>573</xmax>
+			<ymin>24</ymin>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>
